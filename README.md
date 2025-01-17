@@ -18,7 +18,7 @@ Check out more on my [repositories](https://github.com/username?tab=repositories
 
 ### 📬 Connect with Me
 - 🌐 Website: [danielemontecchi.it](https://danielemontecchi.it)
-- 🐦 Twitter: [@montecchi](https://twitter.com/montecchi)
+- 🐦 X: [@montecchi](https://x.com/montecchi)
 - 💼 LinkedIn: [Daniele Montecchi](https://www.linkedin.com/in/danielemontecchi)
 
 ---
