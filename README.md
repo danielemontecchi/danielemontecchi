@@ -12,7 +12,7 @@ Currently focused on building innovative solutions with **Laravel** and sharing 
 
 ### 🌐 My Projects
 
-Check out more on my [repositories](https://github.com/username?tab=repositories)!
+Check out more on my [repositories](https://github.com/danielemontecchi?tab=repositories)!
 
 ---
 
