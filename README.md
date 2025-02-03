@@ -16,8 +16,23 @@ Check out more on my [repositories](https://github.com/danielemontecchi?tab=repo
 
 ---
 
+### 📋 Guidelines and Resources
+I’ve compiled a collection of **guides and resources** that I’ve found useful in my professional experience. These are **opinionated** guidelines that reflect my personal approach to development but are meant to be helpful and adaptable for others.  
+
+#### 🔹 Git Guidelines
+A detailed guide covering:
+- Branching strategies
+- Commit conventions
+- Workflow optimization  
+
+[Read the Git Guidelines](./git-guidelines/README.md)
+
+More resources to come soon!
+
+---
+
 ### 📬 Connect with Me
-- 🌐 Website: [danielemontecchi.it](https://danielemontecchi.it)
+- 🌐 Website: [danielemontecchi.com](https://danielemontecchi.com)
 - 🐦 X: [@montecchi](https://x.com/montecchi)
 - 💼 LinkedIn: [Daniele Montecchi](https://www.linkedin.com/in/danielemontecchi)
 
