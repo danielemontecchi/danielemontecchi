@@ -39,7 +39,7 @@ More resources to come soon!
 ---
 
 ### 🌟 Fun Fact
-I'm building my projects under the umbrella of **Evolvify** – stay tuned for exciting updates!
+I'm building my projects under the umbrella of [**@EvolvifyApp**](https://github.com/EvolvifyApp) – stay tuned for exciting updates!
 
 ---
 
