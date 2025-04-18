@@ -34,7 +34,8 @@ More resources to come soon!
 ### 📬 Connect with Me
 - 🌐 Website: [danielemontecchi.com](https://danielemontecchi.com)
 - 🐦 X: [@montecchi](https://x.com/montecchi)
-- 💼 LinkedIn: [Daniele Montecchi](https://www.linkedin.com/in/danielemontecchi)
+- 💼 LinkedIn: [@danielemontecchi](https://www.linkedin.com/in/danielemontecchi)
+- 🤝 Patreon: [@danielemontecchi](https://patreon.com/DanieleMontecchi?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 ---
 
